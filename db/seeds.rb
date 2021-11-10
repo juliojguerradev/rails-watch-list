@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 require 'open-uri'
-require 'JSON'
+# require 'JSON'
 
 Movie.delete_all
 List.delete_all
